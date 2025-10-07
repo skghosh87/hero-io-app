@@ -36,13 +36,13 @@ const Navbar = () => {
                 className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow "
               >
                 <li>
-                  <a href="#">Home</a>
+                  <a href="/home">Home</a>
                 </li>
                 <li>
-                  <a href="#">Apps</a>
+                  <a href="/apps">Apps</a>
                 </li>
                 <li>
-                  <a href="#">Installation</a>
+                  <a href="/installation">Installation</a>
                 </li>
               </ul>
             </div>
@@ -54,18 +54,21 @@ const Navbar = () => {
           <div className="navbar-center hidden md:flex">
             <ul className="menu menu-horizontal px-1 font-semibold">
               <li>
-                <a href="#">Home</a>
+                <a href="/home">Home</a>
               </li>
               <li>
-                <a href="#">Apps</a>
+                <a href="/apps">Apps</a>
               </li>
               <li>
-                <a href="#">Installation</a>
+                <a href="/installation">Installation</a>
               </li>
             </ul>
           </div>
           <div className="navbar-end">
-            <a className="btn btn-color text-white">
+            <a
+              href="https://github.com/skghosh87/hero-io-app.git"
+              className="btn btn-color text-white"
+            >
               <span>
                 <Github />
               </span>
