@@ -1,9 +1,12 @@
 import React from "react";
+import HeroSection from "../SubSection/HeroSection";
+import TrustSection from "../SubSection/TrustSection";
 
 const Home = () => {
   return (
     <div>
-      <h1>I am Home</h1>
+      <HeroSection />
+      <TrustSection />
     </div>
   );
 };

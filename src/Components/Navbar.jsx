@@ -2,6 +2,7 @@ import { Github } from "lucide-react";
 import React from "react";
 import logo from "/logo.png";
 import Container from "./Container";
+import { Link, NavLink } from "react-router";
 
 const Navbar = () => {
   return (
@@ -36,31 +37,36 @@ const Navbar = () => {
                 className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow "
               >
                 <li>
-                  <a href="/home">Home</a>
+                  <NavLink to="/">Home</NavLink>
                 </li>
                 <li>
-                  <a href="/apps">Apps</a>
+                  <NavLink to="/apps">Apps</NavLink>
+                  {/* <a href="/apps">Apps</a> */}
                 </li>
                 <li>
-                  <a href="/installation">Installation</a>
+                  <NavLink to="/installation">Installation</NavLink>
+                  {/* <a href="/installation">Installation</a> */}
                 </li>
               </ul>
             </div>
-            <a href="#" className="btn btn-ghost text-xl">
+            <Link to="/" className="btn btn-ghost text-xl">
               <img className="w-[40px] h-[40px]" src={logo} alt="" />
-              <span className="font-bold logo-color">HERO.IO</span>
-            </a>
+              <span className="font-bold logoText-color">HERO.IO</span>
+            </Link>
           </div>
+
           <div className="navbar-center hidden md:flex">
             <ul className="menu menu-horizontal px-1 font-semibold">
               <li>
-                <a href="/home">Home</a>
+                <NavLink to="/">Home</NavLink>
               </li>
               <li>
-                <a href="/apps">Apps</a>
+                <NavLink to="/apps">Apps</NavLink>
+                {/* <a href="/apps">Apps</a> */}
               </li>
               <li>
-                <a href="/installation">Installation</a>
+                <NavLink to="/installation">Installation</NavLink>
+                {/* <a href="/installation">Installation</a> */}
               </li>
             </ul>
           </div>

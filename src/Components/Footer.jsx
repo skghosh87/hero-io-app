@@ -41,9 +41,9 @@ const Footer = () => {
             <a className="link link-hover">Cookie policy</a>
           </nav>
         </div>
-        <div className="text-left md:text-center text-gray-500 text-sm mt-8">
-          Copyright © 2025 - All right reserved
-          <br className="block md:hidden" /> All rights reserved.
+        <div className="text-center text-gray-500 text-sm mt-8">
+          Copyright © {new Date().getFullYear()} - All right reserved
+          <br className="block md:hidden" />
         </div>
       </Container>
     </footer>
