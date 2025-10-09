@@ -1,0 +1,398 @@
+[
+  {
+    "image": "https://i.ibb.co/v4BL9JhR/Game-Verse-Pro.png",
+    "title": "GameVerse Pro",
+    "companyName": "PixelPlay Studios",
+    "id": 101,
+    "description": "The ultimate hub for all your gaming needs and community features.",
+    "size": 150.5,
+    "reviews": 12580,
+    "ratingAvg": 4.6,
+    "downloads": "2.4M",
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1100 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "5 star", "count": 7610 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/9HJxYM0n/Fit-Life-Tracker.jpg",
+    "title": "FitLife Tracker",
+    "companyName": "HealthTech Solutions",
+    "id": 202,
+    "description": "Personalized fitness and nutrition tracking with AI coach.",
+    "size": 75.2,
+    "reviews": 8500,
+    "ratingAvg": 4.8,
+    "downloads": "4.8M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 370 },
+      { "name": "4 star", "count": 1800 },
+      { "name": "5 star", "count": 6200 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/fVmdh8JH/Sky-Journal.jpg",
+    "title": "SkyJournal",
+    "companyName": "DreamWeaver Apps",
+    "id": 303,
+    "description": "A beautiful and secure digital journal for daily reflection.",
+    "size": 45.0,
+    "reviews": 3200,
+    "ratingAvg": 4.5,
+    "downloads": "1.1M",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 380 },
+      { "name": "4 star", "count": 950 },
+      { "name": "5 star", "count": 1750 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/5g98cg2p/Code-Buddy-IDE.jpg",
+    "title": "CodeBuddy IDE",
+    "companyName": "DevTools Inc.",
+    "id": 404,
+    "description": "Mobile integrated development environment supporting multiple languages.",
+    "size": 250.7,
+    "reviews": 15000,
+    "ratingAvg": 4.2,
+    "downloads": "3.1M",
+    "ratings": [
+      { "name": "1 star", "count": 250 },
+      { "name": "2 star", "count": 400 },
+      { "name": "3 star", "count": 2100 },
+      { "name": "4 star", "count": 4750 },
+      { "name": "5 star", "count": 7500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/2Yk9S9wQ/Global-Traveler.jpg",
+    "title": "Global Traveler",
+    "companyName": "Wanderlust Maps",
+    "id": 505,
+    "description": "Offline maps, phrasebooks, and travel guides for any destination.",
+    "size": 98.1,
+    "reviews": 9800,
+    "ratingAvg": 4.7,
+    "downloads": "4.2M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 650 },
+      { "name": "4 star", "count": 2900 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/wFFzd5QQ/Music-Sync-Player.png",
+    "title": "MusicSync Player",
+    "companyName": "RhythmWorks Ltd.",
+    "id": 606,
+    "description": "A powerful music player with cloud sync and custom equalizer.",
+    "size": 60.3,
+    "reviews": 18000,
+    "ratingAvg": 4.3,
+    "downloads": "1.7M",
+    "ratings": [
+      { "name": "1 star", "count": 300 },
+      { "name": "2 star", "count": 450 },
+      { "name": "3 star", "count": 3000 },
+      { "name": "4 star", "count": 5750 },
+      { "name": "5 star", "count": 8500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/67BsWHbY/Budget-Boss.jpg",
+    "title": "BudgetBoss",
+    "companyName": "FinanceFirst",
+    "id": 707,
+    "description": "Easy-to-use personal finance manager and budget planner.",
+    "size": 30.5,
+    "reviews": 5500,
+    "ratingAvg": 4.9,
+    "downloads": "4.9M",
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 140 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 4100 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/FLgwMWjF/Photo-Paint-Pro.jpg",
+    "title": "PhotoPaint Pro",
+    "companyName": "Creative Canvas",
+    "id": 808,
+    "description": "Advanced photo editing and digital painting suite.",
+    "size": 320.9,
+    "reviews": 22000,
+    "ratingAvg": 4.7,
+    "downloads": "3.6M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1500 },
+      { "name": "4 star", "count": 6000 },
+      { "name": "5 star", "count": 14050 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/5b4bZJ8/Star-Gazer-AR.jpg",
+    "title": "StarGazer AR",
+    "companyName": "Cosmic View",
+    "id": 909,
+    "description": "Augmented Reality app for identifying stars, planets, and constellations.",
+    "size": 110.4,
+    "reviews": 4100,
+    "ratingAvg": 4.6,
+    "downloads": "2.8M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 450 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 2300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/MmHBHgk/Task-Master-Pro.png",
+    "title": "TaskMaster Pro",
+    "companyName": "Productivity Hub",
+    "id": 1010,
+    "description": "All-in-one to-do list, project management, and collaboration tool.",
+    "size": 55.8,
+    "reviews": 7000,
+    "ratingAvg": 4.4,
+    "downloads": "1.5M",
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 180 },
+      { "name": "3 star", "count": 930 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3700 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TxTcKZCG/Lingua-Easy.jpg",
+    "title": "LinguaEasy",
+    "companyName": "Global Speak",
+    "id": 1111,
+    "description": "Fun and effective language learning for over 30 languages.",
+    "size": 180.2,
+    "reviews": 30000,
+    "ratingAvg": 4.8,
+    "downloads": "5.0M",
+    "ratings": [
+      { "name": "1 star", "count": 200 },
+      { "name": "2 star", "count": 300 },
+      { "name": "3 star", "count": 1000 },
+      { "name": "4 star", "count": 8500 },
+      { "name": "5 star", "count": 20000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/XZsfD2Np/Recipe-Finder.jpg",
+    "title": "Recipe Finder",
+    "companyName": "Kitchen Coders",
+    "id": 1212,
+    "description": "Find recipes based on ingredients you have at home.",
+    "size": 40.1,
+    "reviews": 6000,
+    "ratingAvg": 4.3,
+    "downloads": "1.9M",
+    "ratings": [
+      { "name": "1 star", "count": 110 },
+      { "name": "2 star", "count": 190 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 2000 },
+      { "name": "5 star", "count": 2900 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/qYQrw2VS/Smart-Home-Control.jpg",
+    "title": "SmartHome Control",
+    "companyName": "Automate Everything",
+    "id": 1313,
+    "description": "Centralized control for all your smart home devices.",
+    "size": 88.6,
+    "reviews": 11000,
+    "ratingAvg": 4.5,
+    "downloads": "4.5M",
+    "ratings": [
+      { "name": "1 star", "count": 180 },
+      { "name": "2 star", "count": 320 },
+      { "name": "3 star", "count": 1200 },
+      { "name": "4 star", "count": 3300 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/tTpSk2Pq/News-Flash.jpg",
+    "title": "NewsFlash 24/7",
+    "companyName": "InfoStream Media",
+    "id": 1414,
+    "description": "Breaking news and personalized content feed from global sources.",
+    "size": 70.0,
+    "reviews": 19000,
+    "ratingAvg": 4.2,
+    "downloads": "3.3M",
+    "ratings": [
+      { "name": "1 star", "count": 400 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 6550 },
+      { "name": "5 star", "count": 8000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/SCnVsnz/Mind-Calm-Meditate.jpg",
+    "title": "MindCalm Meditate",
+    "companyName": "Inner Peace Labs",
+    "id": 1515,
+    "description": "Guided meditations and sleep stories for stress reduction.",
+    "size": 130.0,
+    "reviews": 14000,
+    "ratingAvg": 4.9,
+    "downloads": "4.1M",
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 400 },
+      { "name": "4 star", "count": 2500 },
+      { "name": "5 star", "count": 11000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/tPHRGd63/Crypto-Ledger.png",
+    "title": "Crypto Ledger",
+    "companyName": "Digital Assets Group",
+    "id": 1616,
+    "description": "Secure mobile crypto wallet and market tracker.",
+    "size": 92.5,
+    "reviews": 6500,
+    "ratingAvg": 4.5,
+    "downloads": "1.3M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 850 },
+      { "name": "4 star", "count": 2100 },
+      { "name": "5 star", "count": 3300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/n83M6kdj/Kids-Academy-Edu.jpg",
+    "title": "Kids Academy Edu",
+    "companyName": "Bright Future Ed",
+    "id": 1717,
+    "description": "Interactive educational games for children ages 3-8.",
+    "size": 220.3,
+    "reviews": 7500,
+    "ratingAvg": 4.6,
+    "downloads": "2.7M",
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 600 },
+      { "name": "4 star", "count": 2200 },
+      { "name": "5 star", "count": 4500 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/S4yps33D/Remote-Meet.jpg",
+    "title": "Remote Meet",
+    "companyName": "Connect Global",
+    "id": 1818,
+    "description": "HD video conferencing and screen sharing for teams.",
+    "size": 160.7,
+    "reviews": 16000,
+    "ratingAvg": 4.1,
+    "downloads": "3.9M",
+    "ratings": [
+      { "name": "1 star", "count": 500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "3 star", "count": 3500 },
+      { "name": "4 star", "count": 5500 },
+      { "name": "5 star", "count": 5800 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/6JqZzzmN/Design-Spark-Mobile.jpg",
+    "title": "DesignSpark Mobile",
+    "companyName": "Visual Innovators",
+    "id": 1919,
+    "description": "Graphic design tool with templates and cloud storage.",
+    "size": 280.4,
+    "reviews": 10500,
+    "ratingAvg": 4.7,
+    "downloads": "2.1M",
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 200 },
+      { "name": "3 star", "count": 800 },
+      { "name": "4 star", "count": 3400 },
+      { "name": "5 star", "count": 6000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/cfHyzd0/Weather-Max-Radar.jpg",
+    "title": "WeatherMax Radar",
+    "companyName": "Forecasting Pros",
+    "id": 2020,
+    "description": "Hyper-local weather radar and 15-day forecast.",
+    "size": 50.1,
+    "reviews": 13000,
+    "ratingAvg": 4.4,
+    "downloads": "4.6M",
+    "ratings": [
+      { "name": "1 star", "count": 150 },
+      { "name": "2 star", "count": 250 },
+      { "name": "3 star", "count": 1800 },
+      { "name": "4 star", "count": 4500 },
+      { "name": "5 star", "count": 6300 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/TM9f4r7y/Retro-Arcade-Classics.jpg",
+    "title": "Retro Arcade Classics",
+    "companyName": "Nostalgia Games",
+    "id": 2121,
+    "description": "Collection of classic 8-bit and 16-bit arcade games.",
+    "size": 190.0,
+    "reviews": 9000,
+    "ratingAvg": 4.0,
+    "downloads": "1.6M",
+    "ratings": [
+      { "name": "1 star", "count": 350 },
+      { "name": "2 star", "count": 550 },
+      { "name": "3 star", "count": 1900 },
+      { "name": "4 star", "count": 2800 },
+      { "name": "5 star", "count": 3400 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co/d0frkyzM/EBook-Reader-Plus.jpg",
+    "title": "EBook Reader Plus",
+    "companyName": "PageTurner Digital",
+    "id": 2222,
+    "description": "A feature-rich reader for EPUB and PDF files with a built-in store.",
+    "size": 65.9,
+    "reviews": 5000,
+    "ratingAvg": 4.6,
+    "downloads": "2.9M",
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 550 },
+      { "name": "4 star", "count": 1500 },
+      { "name": "5 star", "count": 2800 }
+    ]
+  }
+]

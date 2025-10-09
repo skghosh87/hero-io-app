@@ -1,5 +1,5 @@
 import React from "react";
-import Container from "../Components/Container";
+import Container from "./Container";
 import appStoreImg from "/appStore.png";
 import playStoreImg from "/googlePlay.png";
 import heroImg from "/hero.png";

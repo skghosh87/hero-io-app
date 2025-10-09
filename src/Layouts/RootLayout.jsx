@@ -8,7 +8,10 @@ const RootLayout = () => {
   return (
     <div className="flex flex-col min-h-screen">
       <Navbar />
-      <Outlet />
+      <div className=" w-full  flex-1">
+        <Outlet />
+      </div>
+
       <Footer />
     </div>
   );

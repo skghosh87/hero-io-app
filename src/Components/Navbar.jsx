@@ -49,7 +49,7 @@ const Navbar = () => {
                 </li>
               </ul>
             </div>
-            <Link to="/" className="btn btn-ghost text-xl">
+            <Link to="/" className="flex items-center text-xl">
               <img className="w-[40px] h-[40px]" src={logo} alt="" />
               <span className="font-bold logoText-color">HERO.IO</span>
             </Link>
