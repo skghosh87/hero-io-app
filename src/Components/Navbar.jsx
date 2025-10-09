@@ -1,10 +1,15 @@
-import { Github } from "lucide-react";
 import React from "react";
+import { Github } from "lucide-react";
 import logo from "/logo.png";
 import Container from "./Container";
 import { Link, NavLink } from "react-router";
 
 const Navbar = () => {
+  const getNavLinkClass = ({ isActive }) =>
+    isActive
+      ? "text-blue-600 font-bold border-b-2 border-blue-600 pb-1"
+      : "text-gray-700 hover:text-blue-600 font-semibold";
+
   return (
     <div className=" bg-white shadow-md border-b-[0.5px] border-gray-300">
       <Container>
@@ -15,37 +20,25 @@ const Navbar = () => {
                 tabIndex={0}
                 role="button"
                 className="btn btn-ghost md:hidden"
-              >
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  className="h-5 w-5"
-                  fill="none"
-                  viewBox="0 0 24 24"
-                  stroke="currentColor"
-                >
-                  {" "}
-                  <path
-                    strokeLinecap="round"
-                    strokeLinejoin="round"
-                    strokeWidth="2"
-                    d="M4 6h16M4 12h8m-8 6h16"
-                  />{" "}
-                </svg>
-              </div>
+              ></div>
               <ul
                 tabIndex={0}
                 className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow "
               >
                 <li>
-                  <NavLink to="/">Home</NavLink>
+                  <NavLink to="/" className={getNavLinkClass}>
+                    Home
+                  </NavLink>
                 </li>
                 <li>
-                  <NavLink to="/apps">Apps</NavLink>
-                  {/* <a href="/apps">Apps</a> */}
+                  <NavLink to="/apps" className={getNavLinkClass}>
+                    Apps
+                  </NavLink>
                 </li>
                 <li>
-                  <NavLink to="/installation">Installation</NavLink>
-                  {/* <a href="/installation">Installation</a> */}
+                  <NavLink to="/installation" className={getNavLinkClass}>
+                    Installation
+                  </NavLink>
                 </li>
               </ul>
             </div>
@@ -58,18 +51,23 @@ const Navbar = () => {
           <div className="navbar-center hidden md:flex">
             <ul className="menu menu-horizontal px-1 font-semibold">
               <li>
-                <NavLink to="/">Home</NavLink>
+                <NavLink to="/" className={getNavLinkClass}>
+                  Home
+                </NavLink>
               </li>
               <li>
-                <NavLink to="/apps">Apps</NavLink>
-                {/* <a href="/apps">Apps</a> */}
+                <NavLink to="/apps" className={getNavLinkClass}>
+                  Apps
+                </NavLink>
               </li>
               <li>
-                <NavLink to="/installation">Installation</NavLink>
-                {/* <a href="/installation">Installation</a> */}
+                <NavLink to="/installation" className={getNavLinkClass}>
+                  Installation
+                </NavLink>
               </li>
             </ul>
           </div>
+
           <div className="navbar-end">
             <a
               href="https://github.com/skghosh87/hero-io-app.git"

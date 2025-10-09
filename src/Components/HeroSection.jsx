@@ -19,26 +19,39 @@ const HeroSection = () => {
               ideas into digital experiences that truly make an impact.
             </p>
             <div className="btn-box flex gap-5 items-center justify-center">
-              <button className="btn">
+              <div>
                 <span>
-                  <img
-                    className="w-[20px] h-[20px]"
-                    src={playStoreImg}
-                    alt="App Store"
-                  />
+                  <a
+                    href="https://play.google.com/store/apps?hl=en"
+                    target="_blank"
+                    className="btn"
+                  >
+                    <img
+                      className="w-[20px] h-[20px]"
+                      src={playStoreImg}
+                      alt="App Store"
+                    />
+                    Google Play
+                  </a>
                 </span>
-                Google Play
-              </button>
-              <button className="btn">
+              </div>
+              <div>
                 <span>
-                  <img
-                    className="w-[20px] h-[20px]"
-                    src={appStoreImg}
-                    alt="Play Store"
-                  />
+                  <a
+                    href="https://www.apple.com/app-store/"
+                    target="_blank"
+                    className="btn"
+                  >
+                    {" "}
+                    <img
+                      className="w-[20px] h-[20px]"
+                      src={appStoreImg}
+                      alt="Play Store"
+                    />
+                    App Store
+                  </a>
                 </span>
-                App Store
-              </button>
+              </div>
             </div>
             <figure>
               <img className="mx-auto " src={heroImg} alt="Hero Image" />
