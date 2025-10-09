@@ -1,14 +1,42 @@
-import React from "react";
+import React, { useState } from "react";
 import useApps from "../Hooks/useApps";
 import { Link } from "react-router";
 import AppCard from "../Components/AppCard";
 import Container from "../Components/Container";
-import { Search } from "lucide-react";
 
 const Apps = () => {
-  const { dataApps } = useApps();
+  const { dataApps, Loading, Error } = useApps();
+  const [searchApps, setSearchApps] = useState("");
+
+  const filteredApps = Array.isArray(dataApps)
+    ? dataApps.filter((app) => {
+        const appName = app.title || "";
+        return appName.toLowerCase().includes(searchApps.toLowerCase());
+      })
+    : [];
+
+  if (Loading) {
+    return (
+      <Container>
+        <p className="text-center py-10 text-xl font-medium">
+          অ্যাপ্লিকেশন লোড হচ্ছে...
+        </p>
+      </Container>
+    );
+  }
+
+  if (Error) {
+    return (
+      <Container>
+        <p className="text-center py-10 text-xl text-red-600 font-medium">
+          ডাটা লোড করতে সমস্যা হয়েছে।
+        </p>
+      </Container>
+    );
+  }
+
   return (
-    <div>
+    <div className="bg-[#f5f5f5]">
       <Container>
         <div className="pt-6">
           <h1 className="text-5xl text-center font-bold">
@@ -19,7 +47,7 @@ const Apps = () => {
           </p>
         </div>
         <div className="flex justify-between items-center">
-          <p className="font-bold">({dataApps.length}) Apps Found</p>
+          <p className="font-bold">({filteredApps.length}) Apps Found</p>
           <p>
             <label className="input">
               <svg
@@ -38,13 +66,19 @@ const Apps = () => {
                   <path d="m21 21-4.3-4.3"></path>
                 </g>
               </svg>
-              <input type="search" required placeholder="Search Apps" />
+              <input
+                type="search"
+                required
+                placeholder="Search Apps"
+                value={searchApps}
+                onChange={(e) => setSearchApps(e.target.value)}
+              />
             </label>
           </p>
         </div>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 pt-10 ">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 pt-5 pb-4 ">
           {" "}
-          {dataApps.map((dataApp) => (
+          {filteredApps.map((dataApp) => (
             <AppCard key={dataApp.id} dataApp={dataApp} />
           ))}
         </div>

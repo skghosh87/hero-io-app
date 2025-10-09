@@ -9,7 +9,42 @@ import useApps from "../Hooks/useApps";
 const Home = () => {
   const { dataApps, loading, error } = useApps();
 
-  const showCards = dataApps.slice(0, 8);
+  if (loading) {
+    return (
+      <Container>
+        <p className="text-center py-20 text-xl font-medium">Loading...</p>
+      </Container>
+    );
+  }
+
+  if (error) {
+    return (
+      <Container>
+        <p className="text-center py-20 text-xl text-red-600 font-medium">
+          Data Loading Problem.......
+        </p>
+      </Container>
+    );
+  }
+
+  const validData = Array.isArray(dataApps) ? dataApps : [];
+
+  const showCards = validData.slice(0, 8);
+
+  if (showCards.length === 0) {
+    return (
+      <>
+        <HeroSection />
+        <TrustSection />
+        <Container>
+          <h1 className="text-5xl text-center font-bold pt-10">
+            Trending Apps
+          </h1>
+          <p className="text-center py-10 text-lg">Apps not found</p>
+        </Container>
+      </>
+    );
+  }
 
   return (
     <div>
