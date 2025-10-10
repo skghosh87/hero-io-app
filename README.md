@@ -1,3 +1,8 @@
+App Name: Hero-IO-Apps
+Description & Technologies: This is most important apps for tech lover, just search and installed apps and enjoy it
+
+Using Technologies: HTML, CSS, Tailwind CSS, DaisyUI, React.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
