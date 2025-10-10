@@ -17,10 +17,12 @@ import {
   Legend,
   ResponsiveContainer,
 } from "recharts";
+import LoadingSpinner from "../Components/LoadingSpinner";
+import Error from "./Error";
 
 const AppDetails = () => {
   const { id } = useParams();
-  const { dataApps, loading } = useApps();
+  const { dataApps, loading, error } = useApps();
 
   const app = dataApps.find((p) => String(p.id) === id);
 
@@ -35,7 +37,19 @@ const AppDetails = () => {
     }
   }, [app, id]);
 
-  if (loading) return <p>Loading ......</p>;
+  if (loading)
+    return (
+      <p>
+        <LoadingSpinner />
+      </p>
+    );
+  if (error) {
+    return (
+      <p>
+        <Error />
+      </p>
+    );
+  }
   if (!app) return <p>App Not Found!</p>;
 
   const {

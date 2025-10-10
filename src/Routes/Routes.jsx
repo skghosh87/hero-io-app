@@ -5,18 +5,18 @@ import Installation from "../Pages/Installation";
 import RootLayout from "../Layouts/RootLayout";
 import Error from "../Pages/Error";
 import AppDetails from "../Pages/AppDetails";
+import LoadingSpinner from "../Components/LoadingSpinner";
 
 export const router = createBrowserRouter([
   {
     path: "/",
     element: <RootLayout />,
     errorElement: <Error />,
-    hydrateFallbackElement: <p>loading....</p>,
+    hydrateFallbackElement: <p>Loading......</p>,
     children: [
       {
         index: true,
         element: <Home />,
-        loader: () => fetch("./appData.json"),
       },
       {
         path: "/apps",

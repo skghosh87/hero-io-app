@@ -3,6 +3,8 @@ import useApps from "../Hooks/useApps";
 import { Link } from "react-router";
 import AppCard from "../Components/AppCard";
 import Container from "../Components/Container";
+import LoadingSpinner from "../Components/LoadingSpinner";
+import Error from "./Error";
 
 const Apps = () => {
   const { dataApps, loading, error } = useApps();
@@ -23,7 +25,7 @@ const Apps = () => {
     return (
       <Container>
         <p className="text-center py-10 text-xl font-medium">
-          Loading applications...
+          <LoadingSpinner />
         </p>
       </Container>
     );
@@ -32,8 +34,8 @@ const Apps = () => {
   if (error) {
     return (
       <Container>
-        <p className="text-center py-10 text-xl text-red-600 font-medium">
-          Error loading data.
+        <p>
+          <Error />
         </p>
       </Container>
     );
