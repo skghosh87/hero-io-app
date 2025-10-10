@@ -4,17 +4,17 @@
     "title": "GameVerse Pro",
     "companyName": "PixelPlay Studios",
     "id": 101,
-    "description": "The ultimate hub for all your gaming needs and community features.",
+    "description": "GameVerse Pro is the ultimate, **all-in-one hub** for passionate gamers, providing an unparalleled digital experience that goes far beyond simple gaming. It offers seamless **live-streaming integration**, allowing users to watch their favourite creators or broadcast their own gameplay in high definition, completely lag-free. The app includes a sophisticated **personalized news feed**, curating the latest patches, esports results, and gaming rumours relevant only to your interests and played titles. Users get instant, **one-click access** to thousands of mobile and cloud-streamed games across every genre, from competitive battle royales to relaxing indie adventures. Beyond gaming, GameVerse Pro fosters a vibrant social community: players can **connect with friends**, form specialized **guilds or clans**, participate in **exclusive weekly tournaments** with real prizes, and utilize advanced voice and text chat features. It also tracks your **in-game statistics** across multiple platforms, giving you deep analytical insights into your performance, win-loss ratio, and overall skill improvement. Whether you're a casual player or a competitive esports enthusiast, GameVerse Pro is designed to be your central command for the entire gaming universe, making sure you never miss a beat in the world of interactive entertainment.",
     "size": "150.5 MB",
     "reviews": 12580,
     "ratingAvg": 4.6,
     "downloads": "2.4M",
     "ratings": [
-      { "name": "1 star", "count": 120 },
-      { "name": "2 star", "count": 250 },
-      { "name": "3 star", "count": 1100 },
+      { "name": "5 star", "count": 7610 },
       { "name": "4 star", "count": 3500 },
-      { "name": "5 star", "count": 7610 }
+      { "name": "3 star", "count": 1100 },
+      { "name": "2 star", "count": 250 },
+      { "name": "1 star", "count": 120 }
     ]
   },
   {
@@ -22,17 +22,17 @@
     "title": "FitLife Tracker",
     "companyName": "HealthTech Solutions",
     "id": 202,
-    "description": "Personalized fitness and nutrition tracking with AI coach.",
+    "description": "FitLife Tracker is your **dedicated companion** for achieving peak physical and nutritional health. This application goes beyond basic step counting by offering truly **personalized fitness plans** tailored to your current level, goals (weight loss, muscle gain, endurance), and available equipment. Its key feature is the **integrated AI Coach**, which provides real-time feedback during workouts, adjusts your plan dynamically based on performance, and answers complex nutrition questions 24/7. Users gain access to a library of **over 500 guided video workouts**, ranging from HIIT and Yoga to strength training, all led by certified professionals. The app includes comprehensive **nutrition tracking**, allowing you to log meals quickly using a massive database or barcode scanner, and instantly calculates your macros (protein, carbs, fat). Furthermore, FitLife Tracker syncs **seamlessly with all major smart wearables** (Apple Watch, Fitbit, Garmin), consolidating all your health data—sleep quality, heart rate, and caloric expenditure—into one intuitive dashboard. It features weekly progress reports, goal visualization tools, and a community forum where you can find motivation and share successes, ensuring you stay committed and informed on your journey to a healthier lifestyle.",
     "size": "75.2 MB",
     "reviews": 8500,
     "ratingAvg": 4.8,
     "downloads": "4.8M",
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 80 },
-      { "name": "3 star", "count": 370 },
+      { "name": "5 star", "count": 6200 },
       { "name": "4 star", "count": 1800 },
-      { "name": "5 star", "count": 6200 }
+      { "name": "3 star", "count": 370 },
+      { "name": "2 star", "count": 80 },
+      { "name": "1 star", "count": 50 }
     ]
   },
   {
@@ -40,17 +40,17 @@
     "title": "SkyJournal",
     "companyName": "DreamWeaver Apps",
     "id": 303,
-    "description": "A beautiful and secure digital journal for daily reflection.",
+    "description": "SkyJournal offers a beautifully minimalist and highly secure sanctuary for **daily reflection and mindfulness**. It moves beyond traditional note-taking by incorporating **advanced mood tracking**, allowing you to log your emotional state with customizable tags and generate insightful weekly charts on your mental health patterns. Security is paramount: all entries are protected by **military-grade encryption** and can be further secured with **biometric password protection** (Face ID or fingerprint) to ensure complete privacy. The app's design emphasizes a **distraction-free writing experience**, featuring clean themes, custom fonts, and a full-screen mode that lets you focus entirely on your thoughts. Every entry is automatically backed up to a secure cloud server, guaranteeing you never lose a cherished memory or important insight. SkyJournal also provides **intelligent prompts and writing suggestions** to overcome writer's block and encourage deeper contemplation. Use it as a gratitude log, a dream recorder, or a long-term memoir—SkyJournal is the perfect digital companion to capture and preserve the story of your life with elegance and complete confidentiality.",
     "size": "45.0 MB",
     "reviews": 3200,
     "ratingAvg": 4.5,
     "downloads": "1.1M",
     "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 90 },
-      { "name": "3 star", "count": 380 },
+      { "name": "5 star", "count": 1750 },
       { "name": "4 star", "count": 950 },
-      { "name": "5 star", "count": 1750 }
+      { "name": "3 star", "count": 380 },
+      { "name": "2 star", "count": 90 },
+      { "name": "1 star", "count": 30 }
     ]
   },
   {
@@ -58,17 +58,17 @@
     "title": "CodeBuddy IDE",
     "companyName": "DevTools Inc.",
     "id": 404,
-    "description": "Mobile integrated development environment supporting multiple languages.",
+    "description": "CodeBuddy IDE transforms your mobile device into a **full-featured integrated development environment**, making it possible to write, test, and run code anywhere. This essential tool for developers **supports multiple programming languages** including Python, JavaScript, C++, Java, and Ruby, all within a clean, mobile-optimized interface. The core features include **intelligent syntax highlighting** for easy readability, **auto-completion** to drastically speed up coding, and powerful **debugging tools** that let you step through your code line-by-line to identify errors. For professional workflow, CodeBuddy includes a **built-in terminal** supporting all common Linux commands, and seamless integration with **Git/GitHub** for version control and remote repository management. You can open multiple files in separate tabs, use advanced search and replace functions, and customize the editor theme (including popular dark modes) to reduce eye strain. Whether you're practicing algorithms on your commute, making quick fixes to a project, or learning a new language from scratch, CodeBuddy IDE provides the robust functionality of a desktop editor right in your pocket.",
     "size": "250.7 MB",
     "reviews": 15000,
     "ratingAvg": 4.2,
     "downloads": "3.1M",
     "ratings": [
-      { "name": "1 star", "count": 250 },
-      { "name": "2 star", "count": 400 },
-      { "name": "3 star", "count": 2100 },
+      { "name": "5 star", "count": 7500 },
       { "name": "4 star", "count": 4750 },
-      { "name": "5 star", "count": 7500 }
+      { "name": "3 star", "count": 2100 },
+      { "name": "2 star", "count": 400 },
+      { "name": "1 star", "count": 250 }
     ]
   },
   {
@@ -76,17 +76,17 @@
     "title": "Global Traveler",
     "companyName": "Wanderlust Maps",
     "id": 505,
-    "description": "Offline maps, phrasebooks, and travel guides for any destination.",
+    "description": "Global Traveler is the definitive app for the modern explorer, providing **essential resources for seamless travel** to any corner of the world. The standout feature is its **robust offline map capability**: simply download city or country maps ahead of time and navigate using GPS without needing any internet connection or incurring roaming charges. The app includes a comprehensive, multi-language **phrasebook and translator**, complete with native speaker audio recordings for perfect pronunciation, helping you communicate confidently in local markets and hotels. Beyond navigation and language, Global Traveler provides **expertly curated travel guides**, offering local tips on hidden gems, budget-friendly eateries, and must-see historical sites that aren't in standard tourist brochures. It also features a **real-time currency converter** with up-to-the-minute exchange rates, a packing list manager, and a personalized itinerary builder to keep your trip organized from flight to final destination. Never feel lost, disconnected, or unprepared again—Global Traveler ensures you have all the knowledge of a seasoned backpacker right in the palm of your hand.",
     "size": "98.1 MB",
     "reviews": 9800,
     "ratingAvg": 4.7,
     "downloads": "4.2M",
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 150 },
-      { "name": "3 star", "count": 650 },
+      { "name": "5 star", "count": 6000 },
       { "name": "4 star", "count": 2900 },
-      { "name": "5 star", "count": 6000 }
+      { "name": "3 star", "count": 650 },
+      { "name": "2 star", "count": 150 },
+      { "name": "1 star", "count": 100 }
     ]
   },
   {
@@ -94,17 +94,17 @@
     "title": "MusicSync Player",
     "companyName": "RhythmWorks Ltd.",
     "id": 606,
-    "description": "A powerful music player with cloud sync and custom equalizer.",
+    "description": "MusicSync Player is a **high-fidelity music application** designed for audiophiles who demand quality and flexibility. It functions as a powerful local music player while offering seamless **cloud sync capabilities** with major services like Dropbox, Google Drive, and OneDrive, allowing you to access your entire library without using up device storage. The app features a professional **10-band custom graphic equalizer** with a variety of presets (Rock, Pop, Classical, Jazz) and manual controls, enabling you to fine-tune the sound to perfectly match your headphones and preference. Experience music the way the artist intended with **gapless playback** and support for **high-resolution audio formats** including FLAC and ALAC. For an immersive experience, MusicSync provides **automatic lyric display** that scrolls in time with the song, transforming your listening session into a karaoke party. Additional features include smart playlist generation, integrated sleep timers, and a sleek, customizable dark mode interface, making MusicSync the only player you'll ever need for superior mobile audio.",
     "size": "60.3 MB",
     "reviews": 18000,
     "ratingAvg": 4.3,
     "downloads": "1.7M",
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 450 },
-      { "name": "3 star", "count": 3000 },
+      { "name": "5 star", "count": 8500 },
       { "name": "4 star", "count": 5750 },
-      { "name": "5 star", "count": 8500 }
+      { "name": "3 star", "count": 3000 },
+      { "name": "2 star", "count": 450 },
+      { "name": "1 star", "count": 300 }
     ]
   },
   {
@@ -112,17 +112,17 @@
     "title": "BudgetBoss",
     "companyName": "FinanceFirst",
     "id": 707,
-    "description": "Easy-to-use personal finance manager and budget planner.",
+    "description": "BudgetBoss is the **award-winning personal finance manager** designed to give you complete control over your money with minimal effort. Its core function is making expense tracking **dead simple and fast**: log transactions in seconds using custom categories, or connect your bank accounts (safely and securely via encryption) for automatic data import. The app excels at **budget planning**, allowing you to set highly specific monthly, weekly, or custom budgets for everything from groceries to entertainment, and provides instant alerts if you are approaching your limit. Visualize your spending habits with **detailed, interactive charts and graphs**, identifying exactly where your money is going and finding key areas for savings. BudgetBoss supports **multiple currency management** for travelers or international workers and includes powerful features like debt tracking, investment monitoring, and a savings goal tracker. By providing a clear, accurate, and comprehensive overview of your financial health, BudgetBoss empowers you to eliminate debt, maximize savings, and achieve long-term financial freedom without the stress.",
     "size": "30.5 MB",
     "reviews": 5500,
     "ratingAvg": 4.9,
     "downloads": "4.9M",
     "ratings": [
-      { "name": "1 star", "count": 20 },
-      { "name": "2 star", "count": 40 },
-      { "name": "3 star", "count": 140 },
+      { "name": "5 star", "count": 4100 },
       { "name": "4 star", "count": 1200 },
-      { "name": "5 star", "count": 4100 }
+      { "name": "3 star", "count": 140 },
+      { "name": "2 star", "count": 40 },
+      { "name": "1 star", "count": 20 }
     ]
   },
   {
@@ -130,17 +130,17 @@
     "title": "PhotoPaint Pro",
     "companyName": "Creative Canvas",
     "id": 808,
-    "description": "Advanced photo editing and digital painting suite.",
+    "description": "PhotoPaint Pro is the **industry-leading mobile suite** for both **advanced photo editing and professional digital painting**. It provides a robust, desktop-class experience featuring **full, non-destructive layer support**, allowing artists to manage complex compositions with ease. The painting module includes **over 100 highly customizable brushes** for everything from oil painting textures to precision ink work, and supports stylus pressure sensitivity for natural drawing. For photo editors, it offers a complete range of professional tools, including curves, selective colour correction, healing brush, and powerful masking capabilities. You can work with **high-resolution images (up to 4K)** and export in various formats, ensuring your creations are ready for print or web. The app also features a gallery of community-shared presets and templates, helping you kickstart your projects. With a massive toolset designed for maximum creative control and a fluid, optimized interface, PhotoPaint Pro empowers artists and designers to bring their most ambitious visions to life directly on their tablet or smartphone.",
     "size": "320.9 MB",
     "reviews": 22000,
     "ratingAvg": 4.7,
     "downloads": "3.6M",
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 1500 },
+      { "name": "5 star", "count": 14050 },
       { "name": "4 star", "count": 6000 },
-      { "name": "5 star", "count": 14050 }
+      { "name": "3 star", "count": 1500 },
+      { "name": "2 star", "count": 300 },
+      { "name": "1 star", "count": 150 }
     ]
   },
   {
@@ -148,17 +148,17 @@
     "title": "StarGazer AR",
     "companyName": "Cosmic View",
     "id": 909,
-    "description": "Augmented Reality app for identifying stars, planets, and constellations.",
+    "description": "StarGazer AR is the **revolutionary Augmented Reality (AR) application** that unlocks the secrets of the cosmos right above your head. Simply hold your phone or tablet up to the night sky, and the app instantly overlays the names and outlines of **stars, planets, constellations, and deep-sky objects** onto your camera view, working in perfect real-time synchronization. It’s the ultimate learning tool for astronomy enthusiasts of all ages. The app includes an **extensive celestial catalog** featuring detailed facts, myths, and historical data for thousands of celestial bodies. Key features include a **time-travel mode** to see the sky at any point in the past or future, a **meteor shower calendar** with viewing tips, and **3D models of the planets** in our solar system. StarGazer AR works equally well during the day, showing you where celestial bodies are positioned even when obscured by the sun. With its stunning visuals, educational depth, and effortless AR technology, StarGazer AR makes the entire universe accessible and easy to explore from your backyard.",
     "size": "110.4 MB",
     "reviews": 4100,
     "ratingAvg": 4.6,
     "downloads": "2.8M",
     "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 450 },
+      { "name": "5 star", "count": 2300 },
       { "name": "4 star", "count": 1200 },
-      { "name": "5 star", "count": 2300 }
+      { "name": "3 star", "count": 450 },
+      { "name": "2 star", "count": 100 },
+      { "name": "1 star", "count": 50 }
     ]
   },
   {
@@ -166,17 +166,17 @@
     "title": "TaskMaster Pro",
     "companyName": "Productivity Hub",
     "id": 1010,
-    "description": "All-in-one to-do list, project management, and collaboration tool.",
+    "description": "TaskMaster Pro is the **definitive all-in-one productivity suite** designed to help teams and individuals manage complex projects and daily tasks effortlessly. It integrates sophisticated **to-do list management** with enterprise-level **project organization** tools. Users can break down large goals into small, manageable **sub-tasks**, assign specific team members, attach relevant documents (from cloud services), and set strict deadlines with automated reminders. The app's strength lies in its **versatile view options**, including a classic list view, an intuitive **Kanban board** for agile workflow, and a timeline/Gantt chart view for tracking project dependencies. Collaboration is seamless, featuring real-time updates, comment threads within each task, and a centralized dashboard for monitoring overall team workload. TaskMaster Pro also includes a built-in **Pomodoro timer** to encourage focused work sessions and detailed **analytics reports** on task completion rates, helping you identify and eliminate bottlenecks. It’s the perfect solution for boosting efficiency, ensuring accountability, and driving projects to successful completion.",
     "size": "55.8 MB",
     "reviews": 7000,
     "ratingAvg": 4.4,
     "downloads": "1.5M",
     "ratings": [
-      { "name": "1 star", "count": 90 },
-      { "name": "2 star", "count": 180 },
-      { "name": "3 star", "count": 930 },
+      { "name": "5 star", "count": 3700 },
       { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 3700 }
+      { "name": "3 star", "count": 930 },
+      { "name": "2 star", "count": 180 },
+      { "name": "1 star", "count": 90 }
     ]
   },
   {
@@ -184,17 +184,17 @@
     "title": "LinguaEasy",
     "companyName": "Global Speak",
     "id": 1111,
-    "description": "Fun and effective language learning for over 30 languages.",
+    "description": "LinguaEasy makes language acquisition **fun, effective, and deeply personalized** for learners of **over 30 global languages**, from Spanish and Mandarin to Arabic and Russian. The learning methodology is based on **gamified, bite-sized lessons** that focus on practical conversation skills and real-world scenarios, keeping motivation high. Each lesson utilizes **native speaker audio** for precise pronunciation practice and employs sophisticated **AI-driven review sessions** (spaced repetition) to reinforce vocabulary and grammar, ensuring long-term retention. A cutting-edge feature is the **AI Speaking Tutor**, which uses voice recognition technology to provide instant feedback on your spoken sentences, simulating real conversations to build fluency and confidence quickly. You can track your progress via streak counters, unlock achievement badges, and compete with friends on global leaderboards. LinguaEasy offers flexible learning paths suitable for complete beginners, intermediate speakers looking for fluency, and even advanced learners seeking specialized vocabulary, truly adapting to your pace and linguistic needs.",
     "size": "180.2 MB",
     "reviews": 30000,
     "ratingAvg": 4.8,
     "downloads": "5.0M",
     "ratings": [
-      { "name": "1 star", "count": 200 },
-      { "name": "2 star", "count": 300 },
-      { "name": "3 star", "count": 1000 },
+      { "name": "5 star", "count": 20000 },
       { "name": "4 star", "count": 8500 },
-      { "name": "5 star", "count": 20000 }
+      { "name": "3 star", "count": 1000 },
+      { "name": "2 star", "count": 300 },
+      { "name": "1 star", "count": 200 }
     ]
   },
   {
@@ -202,17 +202,17 @@
     "title": "Recipe Finder",
     "companyName": "Kitchen Coders",
     "id": 1212,
-    "description": "Find recipes based on ingredients you have at home.",
+    "description": "Recipe Finder solves the common kitchen dilemma: **'What can I cook with what I have?'** The app's powerful engine allows you to simply input the ingredients currently in your pantry or fridge, and it instantly generates a list of delicious, practical recipes. You can even use the **innovative camera-scan feature** to quickly take a photo of your fridge contents for automatic ingredient recognition. Beyond matching ingredients, Recipe Finder lets you filter results based on dietary needs (vegan, keto, gluten-free), cooking time (under 30 minutes), and difficulty level. Every recipe is accompanied by **high-definition, step-by-step video instructions** to guide novice cooks through complex techniques. The app automatically generates a **smart shopping list** for any missing items, and a unique 'cook-mode' keeps your screen awake and displays instructions in a large, easy-to-read format. It's the ultimate kitchen assistant for reducing food waste, saving money, and ensuring you always have a fantastic meal idea ready.",
     "size": "40.1 MB",
     "reviews": 6000,
     "ratingAvg": 4.3,
     "downloads": "1.9M",
     "ratings": [
-      { "name": "1 star", "count": 110 },
-      { "name": "2 star", "count": 190 },
-      { "name": "3 star", "count": 800 },
+      { "name": "5 star", "count": 2900 },
       { "name": "4 star", "count": 2000 },
-      { "name": "5 star", "count": 2900 }
+      { "name": "3 star", "count": 800 },
+      { "name": "2 star", "count": 190 },
+      { "name": "1 star", "count": 110 }
     ]
   },
   {
@@ -220,17 +220,17 @@
     "title": "SmartHome Control",
     "companyName": "Automate Everything",
     "id": 1313,
-    "description": "Centralized control for all your smart home devices.",
+    "description": "SmartHome Control provides a **single, unified, and intuitive dashboard** for managing your entire smart home ecosystem, eliminating the need for dozens of individual apps. It offers **centralized control** for all major device types, including lighting (brightness and color), thermostats and climate control, door locks, security cameras, and multimedia systems. The app's powerful **Routine Builder** allows you to create custom, automated scenarios (e.g., 'Good Morning' routine turns on lights, raises the temperature, and starts the coffee maker) triggered by time, presence, or voice command. **Compatibility is key**: SmartHome Control works seamlessly with products from all major brands like Google Home, Amazon Alexa, Zigbee, and Z-Wave devices. You can monitor **real-time energy usage** to save on utility bills and receive instant security alerts if any unusual activity is detected. With its user-friendly interface and robust automation capabilities, SmartHome Control transforms your connected devices from a collection of gadgets into a truly intelligent, responsive home.",
     "size": "88.6 MB",
     "reviews": 11000,
     "ratingAvg": 4.5,
     "downloads": "4.5M",
     "ratings": [
-      { "name": "1 star", "count": 180 },
-      { "name": "2 star", "count": 320 },
-      { "name": "3 star", "count": 1200 },
+      { "name": "5 star", "count": 6000 },
       { "name": "4 star", "count": 3300 },
-      { "name": "5 star", "count": 6000 }
+      { "name": "3 star", "count": 1200 },
+      { "name": "2 star", "count": 320 },
+      { "name": "1 star", "count": 180 }
     ]
   },
   {
@@ -238,17 +238,17 @@
     "title": "NewsFlash 24/7",
     "companyName": "InfoStream Media",
     "id": 1414,
-    "description": "Breaking news and personalized content feed from global sources.",
+    "description": "NewsFlash 24/7 is your source for **unfiltered, up-to-the-minute global news** delivered through a highly personalized content feed. The app aggregates **breaking news from thousands of trusted global sources**, ensuring you get a balanced perspective on all major events in politics, finance, technology, and culture. Users have unprecedented control over their content via **customizable topic filters and source selection**, allowing you to eliminate noise and focus only on the stories that matter to you. The app features **live video streaming** of major press conferences and events, **in-depth analysis articles** written by experienced journalists, and an **offline reading mode** for saving articles to catch up on your commute. For a smooth reading experience at night, a sleek **dark mode** is included. The integrated **AI summarization tool** provides a three-point bulleted overview of long articles, letting you grasp the main points quickly. NewsFlash 24/7 ensures you are always informed, never overwhelmed, with a constant stream of reliable, verified information.",
     "size": "70.0 MB",
     "reviews": 19000,
     "ratingAvg": 4.2,
     "downloads": "3.3M",
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 550 },
-      { "name": "3 star", "count": 3500 },
+      { "name": "5 star", "count": 8000 },
       { "name": "4 star", "count": 6550 },
-      { "name": "5 star", "count": 8000 }
+      { "name": "3 star", "count": 3500 },
+      { "name": "2 star", "count": 550 },
+      { "name": "1 star", "count": 400 }
     ]
   },
   {
@@ -256,17 +256,17 @@
     "title": "MindCalm Meditate",
     "companyName": "Inner Peace Labs",
     "id": 1515,
-    "description": "Guided meditations and sleep stories for stress reduction.",
+    "description": "MindCalm Meditate is your **pocket-sized retreat** dedicated to reducing stress, improving focus, and cultivating inner peace. The app provides **hundreds of hours of guided meditations**, categorized by specific needs such as 'Anxiety Relief,' 'Focus and Concentration,' and 'Self-Compassion,' all led by world-renowned mindfulness experts. Its renowned **Sleep Stories** feature famous voices reading relaxing tales accompanied by soothing background soundscapes, scientifically proven to help users fall asleep faster and achieve deeper rest. Users can **track their mindfulness journey** with detailed statistics on session duration, daily streaks, and mood changes, providing a tangible measure of mental well-being improvement. You can also customize your unguided meditation sessions with ambient background sounds (rain, forest, white noise) and set custom chime intervals. MindCalm offers specialized programs for both beginners taking their first steps in mindfulness and advanced practitioners looking for deeper insight, making tranquility and emotional balance accessible anytime, anywhere.",
     "size": "130.0 MB",
     "reviews": 14000,
     "ratingAvg": 4.9,
     "downloads": "4.1M",
     "ratings": [
-      { "name": "1 star", "count": 30 },
-      { "name": "2 star", "count": 70 },
-      { "name": "3 star", "count": 400 },
+      { "name": "5 star", "count": 11000 },
       { "name": "4 star", "count": 2500 },
-      { "name": "5 star", "count": 11000 }
+      { "name": "3 star", "count": 400 },
+      { "name": "2 star", "count": 70 },
+      { "name": "1 star", "count": 30 }
     ]
   },
   {
@@ -274,17 +274,17 @@
     "title": "Crypto Ledger",
     "companyName": "Digital Assets Group",
     "id": 1616,
-    "description": "Secure mobile crypto wallet and market tracker.",
+    "description": "Crypto Ledger is the **secure, non-custodial mobile cryptocurrency wallet and market tracker** designed for both novice traders and seasoned investors. The app provides a high-security environment utilizing **industry-leading encryption** and requires **biometric authentication** (Face ID or fingerprint) for all transaction confirmations, ensuring maximum asset protection. It supports an **extensive range of digital assets**, including Bitcoin, Ethereum, and thousands of altcoins, allowing you to manage your entire portfolio in one place. The integrated **market tracker** features real-time price charts, volume data, and a customizable watchlist. Users can set **instant price alerts** to catch market movements and execute trades quickly through integrated decentralized exchanges (DEXs). Crypto Ledger is not just a wallet; it's a powerful tool for monitoring investment performance, calculating gains and losses, and safely interacting with decentralized applications (DApps) via its built-in Web3 browser, giving you full financial sovereignty.",
     "size": "92.5 MB",
     "reviews": 6500,
     "ratingAvg": 4.5,
     "downloads": "1.3M",
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 150 },
-      { "name": "3 star", "count": 850 },
+      { "name": "5 star", "count": 3300 },
       { "name": "4 star", "count": 2100 },
-      { "name": "5 star", "count": 3300 }
+      { "name": "3 star", "count": 850 },
+      { "name": "2 star", "count": 150 },
+      { "name": "1 star", "count": 100 }
     ]
   },
   {
@@ -292,17 +292,17 @@
     "title": "Kids Academy Edu",
     "companyName": "Bright Future Ed",
     "id": 1717,
-    "description": "Interactive educational games for children ages 3-8.",
+    "description": "Kids Academy Edu is the **trusted educational platform** that sparks curiosity and makes learning fun for children **ages 3 to 8**. The app covers **core early learning subjects** including foundational reading (phonics), essential math (counting, addition, subtraction), and introductory science concepts through hundreds of interactive games and animated activities. All content is **developed by certified educators** and follows curriculum standards to ensure maximum learning efficacy. The environment is **100% child-safe, ad-free, and requires no internet connection** after initial download, giving parents peace of mind. Key features include **personalized learning paths** that adapt to the child's pace, detailed **parent progress reports** that track skill mastery, and colorful, engaging animations that reward effort. Kids can earn virtual trophies and stickers, motivating them to continue exploring new topics. Kids Academy Edu transforms screen time into quality educational time, providing a solid academic foundation for preschool and early elementary years.",
     "size": "220.3 MB",
     "reviews": 7500,
     "ratingAvg": 4.6,
     "downloads": "2.7M",
     "ratings": [
-      { "name": "1 star", "count": 80 },
-      { "name": "2 star", "count": 120 },
-      { "name": "3 star", "count": 600 },
+      { "name": "5 star", "count": 4500 },
       { "name": "4 star", "count": 2200 },
-      { "name": "5 star", "count": 4500 }
+      { "name": "3 star", "count": 600 },
+      { "name": "2 star", "count": 120 },
+      { "name": "1 star", "count": 80 }
     ]
   },
   {
@@ -310,17 +310,17 @@
     "title": "Remote Meet",
     "companyName": "Connect Global",
     "id": 1818,
-    "description": "HD video conferencing and screen sharing for teams.",
+    "description": "Remote Meet is the **enterprise-grade video conferencing solution** designed for high-quality, reliable virtual collaboration for teams of any size. It delivers crystal-clear **HD video and audio** quality, ensuring every meeting is professional and engaging. The platform supports **large meetings of up to 100 participants** simultaneously, making it ideal for company-wide town halls and large training sessions. Essential features include **one-click screen sharing** for seamless presentations, customizable **virtual backgrounds** for privacy, and robust **meeting recording** capabilities with cloud storage. Integrated tools like live chat, emoji reactions, and digital whiteboards enhance participation. Remote Meet prioritizes security, utilizing **end-to-end encryption** to protect all communications from unauthorized access. The app offers easy scheduling integration with Google Calendar and Outlook, and its mobile-optimized interface ensures you can join, host, or manage any meeting instantly, regardless of your location or device.",
     "size": "160.7 MB",
     "reviews": 16000,
     "ratingAvg": 4.1,
     "downloads": "3.9M",
     "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 700 },
-      { "name": "3 star", "count": 3500 },
+      { "name": "5 star", "count": 5800 },
       { "name": "4 star", "count": 5500 },
-      { "name": "5 star", "count": 5800 }
+      { "name": "3 star", "count": 3500 },
+      { "name": "2 star", "count": 700 },
+      { "name": "1 star", "count": 500 }
     ]
   },
   {
@@ -328,17 +328,17 @@
     "title": "DesignSpark Mobile",
     "companyName": "Visual Innovators",
     "id": 1919,
-    "description": "Graphic design tool with templates and cloud storage.",
+    "description": "DesignSpark Mobile is the **powerful, yet user-friendly graphic design tool** that puts professional creation into the hands of everyone. Perfect for entrepreneurs, social media managers, and hobbyists, the app grants access to a **library of thousands of customizable, trend-aware templates** for social posts, flyers, logos, invitations, and more. The **intuitive drag-and-drop editor** makes complex design simple, allowing you to easily manipulate text, shapes, and images without any prior graphic design experience. Users benefit from **unlimited cloud storage** for all their projects and assets, ensuring files are always backed up and accessible across multiple devices. The premium features include background removal, a vast stock photo library, and advanced typography tools. DesignSpark Mobile eliminates the need for expensive, complicated desktop software by providing all the necessary features—from professional colour palettes to layering—in a single, affordable, and mobile-optimized application that lets you achieve studio-quality results instantly.",
     "size": "280.4 MB",
     "reviews": 10500,
     "ratingAvg": 4.7,
     "downloads": "2.1M",
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 800 },
+      { "name": "5 star", "count": 6000 },
       { "name": "4 star", "count": 3400 },
-      { "name": "5 star", "count": 6000 }
+      { "name": "3 star", "count": 800 },
+      { "name": "2 star", "count": 200 },
+      { "name": "1 star", "count": 100 }
     ]
   },
   {
@@ -346,53 +346,17 @@
     "title": "WeatherMax Radar",
     "companyName": "Forecasting Pros",
     "id": 2020,
-    "description": "Hyper-local weather radar and 15-day forecast.",
-    "size": "50.1 MB",
-    "reviews": 13000,
+    "description": "WeatherMax Radar provides **hyper-local, precision weather forecasting** to ensure you are always prepared for the elements, down to the minute. The app's standout feature is its **real-time, interactive radar map**, which tracks precipitation (rain, snow, hail) with a **minute-by-minute forecast** for your exact street address, giving you precise notice of when a shower will start and stop. You get a comprehensive **15-day forecast** with detailed information on temperature, humidity, wind speed, UV index, and chance of precipitation. Crucially, WeatherMax provides **instant severe weather alerts** (tornadoes, floods, extreme heat) issued directly from national meteorological services to keep you and your family safe. Beyond",
+    "size": "70.0 MB",
+    "reviews": 12000,
     "ratingAvg": 4.4,
-    "downloads": "4.6M",
+    "downloads": "2.5M",
     "ratings": [
-      { "name": "1 star", "count": 150 },
-      { "name": "2 star", "count": 250 },
-      { "name": "3 star", "count": 1800 },
-      { "name": "4 star", "count": 4500 },
-      { "name": "5 star", "count": 6300 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co/TM9f4r7y/Retro-Arcade-Classics.jpg",
-    "title": "Retro Arcade Classics",
-    "companyName": "Nostalgia Games",
-    "id": 2121,
-    "description": "Collection of classic 8-bit and 16-bit arcade games.",
-    "size": "190.0 MB",
-    "reviews": 9000,
-    "ratingAvg": 4.0,
-    "downloads": "1.6M",
-    "ratings": [
-      { "name": "1 star", "count": 350 },
-      { "name": "2 star", "count": 550 },
-      { "name": "3 star", "count": 1900 },
-      { "name": "4 star", "count": 2800 },
-      { "name": "5 star", "count": 3400 }
-    ]
-  },
-  {
-    "image": "https://i.ibb.co/d0frkyzM/EBook-Reader-Plus.jpg",
-    "title": "EBook Reader Plus",
-    "companyName": "PageTurner Digital",
-    "id": 2222,
-    "description": "A feature-rich reader for EPUB and PDF files with a built-in store.",
-    "size": "65.9 MB",
-    "reviews": 5000,
-    "ratingAvg": 4.6,
-    "downloads": "2.9M",
-    "ratings": [
-      { "name": "1 star", "count": 50 },
-      { "name": "2 star", "count": 100 },
-      { "name": "3 star", "count": 550 },
-      { "name": "4 star", "count": 1500 },
-      { "name": "5 star", "count": 2800 }
+      { "name": "5 star", "count": 5500 },
+      { "name": "4 star", "count": 3500 },
+      { "name": "3 star", "count": 2000 },
+      { "name": "2 star", "count": 700 },
+      { "name": "1 star", "count": 300 }
     ]
   }
 ]

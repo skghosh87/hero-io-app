@@ -6,17 +6,6 @@ import downloadImg from "/icon-downloads.png";
 import reviewImg from "/icon-review.png";
 import Container from "../Components/Container";
 import { ToastContainer, toast } from "react-toastify";
-import {
-  BarChart,
-  Bar,
-  Rectangle,
-  XAxis,
-  YAxis,
-  CartesianGrid,
-  Tooltip,
-  Legend,
-  ResponsiveContainer,
-} from "recharts";
 
 const AppDetails = () => {
   const { id } = useParams();
@@ -38,17 +27,8 @@ const AppDetails = () => {
   if (loading) return <p>Loading ......</p>;
   if (!app) return <p>App Not Found!</p>;
 
-  const {
-    image,
-    title,
-    ratingAvg,
-    downloads,
-    companyName,
-    reviews,
-    size,
-    ratings,
-    description,
-  } = app;
+  const { image, title, ratingAvg, downloads, companyName, reviews, size } =
+    app;
 
   const handleAddToInstall = () => {
     const existingApps = JSON.parse(localStorage.getItem("installation")) || [];
@@ -64,11 +44,6 @@ const AppDetails = () => {
 
     toast(`Successfully installed ${title}!`);
   };
-
-  const chartData = ratings.map((rating) => ({
-    name: rating.name,
-    Count: rating.count,
-  }));
 
   return (
     <div>
@@ -130,42 +105,8 @@ const AppDetails = () => {
             </div>
           </div>
         </div>
-        <div className="h-[2px] bg-gray-200 w-full my-4"></div>
+
         {/* chart */}
-        <div style={{ width: "100%", height: 350 }}>
-          <ResponsiveContainer width="100%" height="100%">
-            <BarChart
-              width={500}
-              height={300}
-              data={chartData}
-              layout="vertical"
-              margin={{
-                top: 5,
-                right: 30,
-                left: 20,
-                bottom: 5,
-              }}
-            >
-              <CartesianGrid strokeDasharray="3 3" />
-              <XAxis type="number" />
-              <YAxis dataKey="name" type="category" />
-              <Tooltip />
-              <Legend />
-              <Bar
-                dataKey="Count"
-                name="Number of Reviews"
-                fill="#ff8811"
-                activeBar={<Rectangle fill="#ff8811" stroke="#ff8811" />}
-              />
-            </BarChart>
-          </ResponsiveContainer>
-        </div>
-        {/* Description Section */}
-        <div className="h-[2px] bg-gray-200 w-full my-4"></div>
-        <div className="px-2 space-y-2 py-10">
-          <h3 className="font-bold text-3xl">Description</h3>
-          <p className=" text-[#627382]">{description}</p>
-        </div>
       </Container>
       <ToastContainer />
     </div>
